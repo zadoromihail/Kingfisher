@@ -73,6 +73,9 @@ public protocol Indicator {
     func sizeStrategy(in imageView: KFCrossPlatformImageView) -> IndicatorSizeStrategy
 }
 
+
+//some changes
+
 public enum IndicatorSizeStrategy {
     case intrinsicSize
     case full
