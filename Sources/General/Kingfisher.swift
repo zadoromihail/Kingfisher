@@ -1,7 +1,7 @@
 //
 //  Kingfisher.swift
 //  Kingfisher
-//
+// master commit
 //  Created by Wei Wang on 16/9/14.
 //another changes
 //  Copyright (c) 2019 Wei Wang <onevcat@gmail.com>
