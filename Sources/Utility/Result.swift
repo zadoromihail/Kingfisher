@@ -32,6 +32,7 @@ extension Result where Failure: Error {
 
     /// Evaluates the given transform closures to create a single output value.
     ///
+    ///some changes
     /// - Parameters:
     ///   - onSuccess: A closure that transforms the success value.
     ///   - onFailure: A closure that transforms the error value.
