@@ -24,6 +24,10 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 //  THE SOFTWARE.
 
+//commit 1
+
+//commit 2
+
 import Foundation
 import ImageIO
 
